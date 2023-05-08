@@ -61,10 +61,9 @@
   
 <img align="right" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&logoColor=white" />
 
-- 👨‍💻 **Mobile Developer Sales**
+- 👨‍💻 **Mobile Developer Sales**\
 📝 Native app for creating orders and relevant information for the salesperson.\
 📍 **INNOVA** - Tipitapa , Nicaragua
-
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
