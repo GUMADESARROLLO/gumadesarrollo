@@ -22,8 +22,11 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gumadesarrollo&show_icons=true&count_private=true&theme=dark" width="250"></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumadesarrollo&layout=compact&theme=dark&hide_border=true"  width="250"/></a>
+  
+
+
+| <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=gumadesarrollo&show_icons=true&count_private=true&theme=dark" width="380"></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumadesarrollo&layout=compact&theme=dark&hide_border=true"/></a> |
+| ------------- | ------------- |
 
   
 </p>
