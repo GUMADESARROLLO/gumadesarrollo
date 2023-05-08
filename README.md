@@ -47,12 +47,14 @@
 <img align="right" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&logoColor=white" />
 
 - 👨‍💻 **Mobile Developer Sales UNIMARK**\
+📝 Native app for creating orders and relevant information for the salesperson.\
+📍 **UNIMARK** - Managua , Nicaragua
   
 <img align="right" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&logoColor=white" />
 
-- 👨‍💻 **Mobile Developer Sales INNOVA**\
-
-
+- 👨‍💻 **Mobile Developer Sales**
+📝 Native app for creating orders and relevant information for the salesperson.\
+📍 **INNOVA** - Tipitapa , Nicaragua
 
 
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
@@ -62,4 +64,46 @@
 <img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
 - 👨‍💻 **Systems Analyst FrontEnd and BackEnd Developer**
+📝 Various dashboards that display relevant information for operational decision-making.\
+🌐  **GUMANET** - Managua , Nicaragua
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems Analyst FrontEnd and BackEnd Developer**
+📝 Multiple dashboards displaying relevant operational data for informed decision-making.\
+🌐  **GumaStats** - Managua , Nicaragua
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems FrontEnd and BackEnd Developer**
+📝 Management of product stock across different warehouses and kardex.\
+🌐  **Inventario** - Tipitapa , Nicaragua
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems FrontEnd and BackEnd Developer**
+📝 Entry of import invoices, along with their estimated arrival dates.\
+🌐  **Importaciones** - Managua , Nicaragua
+
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Systems FrontEnd and BackEnd Developer**
+📝 Platform for customer service, where orders are received and access is provided to inventory, customers, and other statistics.\
+🌐  **SAC** - Managua , Nicaragua
 
