@@ -13,10 +13,10 @@
 
 <p align='center'>
   
-  <a href="https://www.unimarksa.com">
+  <a href="https://www.unimarksa.com" target="_blank">
     <img src="https://img.shields.io/badge/unimarksa-blue?style=for-the-badge&logo=Internet-Explorer&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href=https://innovaindustrias.com">
+  <a href="https://innovaindustrias.com" target="_blank">
     <img src="https://img.shields.io/badge/innova-blueviolet?style=for-the-badge&logo=Internet-Explorer&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
